@@ -457,6 +457,16 @@ textarea.form-control {
   width: 85px;
   object-fit: cover; }
 
+.section_about {
+  padding: 250px 0 290px;
+  padding-top: 90px;
+  padding-bottom: 90px; }
+  .section_about-sm {
+    padding-top: 40px;
+    padding-bottom: 40px; }
+  .section_about-title {
+    margin-bottom: 30px; }
+
 .top-header {
   font-size: 12px;
   transition: transform .2s ease;
